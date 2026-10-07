@@ -30,7 +30,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 
 <img
   align="right"
-  width="300"
+  width="280"
   src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.png?raw=true"
   alt="Sanjib Ghosh"
 />
