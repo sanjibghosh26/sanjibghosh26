@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sanjib Ghosh</h1>
 
 <h3 align="center">
@@ -11,6 +12,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
     alt="Profile Views"
   />
 </p>
+<img align="right" width="500" src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true">
 
 ---
 
