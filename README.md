@@ -18,7 +18,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=sanjibghosh26&label=Profile%20Views&color=58a6ff&style=flat"
-    alt="Profile Views"
+    alt="Profile Views" 
   />
 </p>
 
@@ -30,7 +30,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 
 <img
   align="right"
-  width="380"
+  width="300"
   src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true"
   alt="Sanjib Ghosh"
 />
