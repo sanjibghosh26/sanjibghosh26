@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_Banner.png?raw=true"
+    src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_Banner_2.png?raw=true"
     alt="Sanjib Ghosh GitHub Banner"
     width="100%"
   />
