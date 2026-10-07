@@ -12,7 +12,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
     alt="Profile Views"
   />
 </p>
-<img align="right" width="500" src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true">
+<img align="right" width="300" src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true">
 
 ---
 
