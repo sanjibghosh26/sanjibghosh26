@@ -1,4 +1,13 @@
-![MasterHead](https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_Banner.png?raw=true)
+<!-- ======================= BANNER ======================= -->
+
+<p align="center">
+  <img
+    src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_Banner.png?raw=true"
+    alt="Sanjib Ghosh GitHub Banner"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanjib Ghosh</h1>
 
 <h3 align="center">
@@ -12,11 +21,19 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
     alt="Profile Views"
   />
 </p>
-<img align="right" width="300" src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true">
 
 ---
 
+<!-- ======================= ABOUT ME ======================= -->
+
 ## 🚀 About Me
+
+<img
+  align="right"
+  width="380"
+  src="https://github.com/sanjibghosh26/sanjibghosh26/blob/main/Github_pic.jpg?raw=true"
+  alt="Sanjib Ghosh"
+/>
 
 - 🔭 I'm currently working on **CINEADDAX - Your Movie Universe**
 
@@ -33,24 +50,28 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 - 📄 Know about my experiences:
   **[View My Resume](https://drive.google.com/file/d/1-cvMXpSOwl18oK9dwT_WCBfvIOOa4MVh/view)**
 
+<br clear="both">
+
 ---
+
+<!-- ======================= CONNECT ======================= -->
 
 ## 🤝 Connect with me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/sanjib-ghosh26/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-    alt="LinkedIn"
-    width="40"
-    height="40"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/sanjib-ghosh-46b719305/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ---
+
+<!-- ======================= SKILLS ======================= -->
 
 ## 🛠️ Languages and Tools
 
@@ -59,7 +80,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <!-- HTML5 -->
 <a href="https://www.w3.org/html/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/html5/E34F26"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     alt="HTML5"
     width="40"
     height="40"
@@ -79,7 +100,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/javascript/F7DF1E"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="JavaScript"
     width="40"
     height="40"
@@ -89,7 +110,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <!-- React -->
 <a href="https://react.dev/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/react/61DAFB"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="React"
     width="40"
     height="40"
@@ -109,7 +130,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/typescript/3178C6"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="TypeScript"
     width="40"
     height="40"
@@ -149,7 +170,7 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/git/F05032"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="Git"
     width="40"
     height="40"
@@ -169,6 +190,8 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 </p>
 
 ---
+
+<!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Stats
 
@@ -190,6 +213,8 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 
 ---
 
+<!-- ======================= STREAK ======================= -->
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -203,7 +228,11 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<!-- ======================= FOOTER ======================= -->
+
+<h3 align="center">
+  ✨ Thanks for visiting my profile! ✨
+</h3>
 
 <p align="center">
   <b>Let's build something amazing together 🚀</b>
