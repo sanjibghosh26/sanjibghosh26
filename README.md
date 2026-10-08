@@ -15,12 +15,7 @@ Frontend Developer | React.js & JavaScript Enthusiast |
 Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 </h3>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sanjibghosh26&label=Profile%20Views&color=58a6ff&style=flat"
-    alt="Profile Views" 
-  />
-</p>
+
 
 ---
 
