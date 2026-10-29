@@ -193,13 +193,13 @@ Building Responsive, Scalable Web Interfaces | Diploma in Computer Science
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjibghosh26&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+  src="https://github-readme-stats-ashen-xi.vercel.app/api/top-langs?username=sanjibghosh26&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
   alt="Top Languages"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sanjibghosh26&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+  src="https://github-readme-stats-ashen-xi.vercel.app/api?username=sanjibghosh26&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
   alt="GitHub Stats"
   height="180"
 />
